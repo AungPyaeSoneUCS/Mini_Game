@@ -1,0 +1,46 @@
+{
+  "id": "/",
+  "name": "Neon Game Hub by AungPyaeSoneUCS",
+  "short_name": "Neon Hub",
+  "description": "A collection of neon-themed browser games by AungPyaeSoneUCS.",
+  "start_url": "/game",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "categories": ["games", "entertainment"],
+  "author": "AungPyaeSoneUCS",
+  "links": [
+    {
+      "rel": "author",
+      "href": "https://github.com/AungPyaeSoneUCS"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
